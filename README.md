@@ -4,15 +4,15 @@ For a detailed description, read our paper located in the report folder. Current
 
 ##### Localization and Mapping
 <p float="left">
-<img width="50%" src="/results/sequence05.png"/>
-<img width="50%" src="/results/map_seq_05.png"/>
+<img width="25%" src="/results/sequence05.png"/>
+<img width="25%" src="/results/map_seq_05.png"/>
 </p>
 
 ##### Planning
 <p float="left">
-<img width="50%" src="/results/map_seq_05_zoom_3d.png"/>
-<img width="50%" src="/results/case2_cc.png"/>
-<img width="50%" src="/results/case2_edt.png"/>
+<img width="20%" src="/results/map_seq_05_zoom_3d.png"/>
+<img width="20%" src="/results/case2_cc.png"/>
+<img width="20%" src="/results/case2_edt.png"/>
 </p>
 
 
