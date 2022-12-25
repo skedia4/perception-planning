@@ -3,13 +3,13 @@
 For a detailed description, read our paper located in the report folder. Currently, this work is not published.
 
 ##### Localization and Mapping
-<p float="center">
+<p align='center'>
 <img width="35%" src="/results/sequence05.png"/>
 <img width="35%" src="/results/map_seq_05.png"/>
 </p>
 
 ##### Planning
-<p float="center">
+<p align='center'>
 <img width="25%" src="/results/map_seq_05_zoom_3d.png"/>
 <img width="25%" src="/results/case2_cc.png"/>
 <img width="25%" src="/results/case2_edt.png"/>
