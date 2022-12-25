@@ -1,0 +1,6 @@
+map_path: '../data/seq_005_map_data_till_0-400.npz'
+scale: 10
+occupancy_img: 'arr_1'
+edt_img: 'arr_2'
+offset_h: 3500 #600  
+offset_w: 3300 #5300  
