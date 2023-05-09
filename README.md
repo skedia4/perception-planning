@@ -4,7 +4,7 @@ For a detailed description, read our paper located in the report folder. Current
 
 ##### Localization and Mapping
 <p align='center'>
-<img width="35%" src="/results/sequence05.png"/>
+<img width="35%" src="/results/sequence_05.png"/>
 <img width="35%" src="/results/map_seq_05.png"/>
 </p>
 
